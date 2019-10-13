@@ -1,0 +1,32 @@
+.titlehead {
+  /* display: block; */
+  font-size: 32px;
+  /* position: relative; */
+  text-align: center;
+}
+
+.user {
+   height: 20%;
+}
+
+.chatinput {
+  display: inline-block;
+  width: 96%;
+  border: 2px solid red;
+  height: 30%;
+}
+
+.chatsend {
+  display: inline-block;
+}
+
+.chatbox {
+  width: auto;
+  border: 2px solid;
+  height: 876px;
+  display: block;
+}
+
+.chatsend, .user{
+  border: 2px solid green;
+}
